@@ -3,11 +3,41 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="hi" name="Wikiness - My Fitness Knowledge"
-                 start-page="Empty-MD-Topic.md">
+                 start-page="home.md">
 
-    <toc-element topic="Empty-MD-Topic.md">
-        <toc-element topic="pull-up01.md">
-            <toc-element topic="Pullup.md"/>
+    <toc-element topic="home.md">
+    </toc-element>
+    <toc-element topic="esericizi.md">
+        <toc-element topic="articoli-su-curl.md">
+            <toc-element topic="curl-con-manubri-01.md"/>
         </toc-element>
+        <toc-element topic="raccolta-pull-up.md">
+            <toc-element topic="australian-pull-up.md"/>
+            <toc-element topic="trazioni-alla-sbarra-o-pull-up.md"/>
+            <toc-element topic="pullup-01.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="muscoli.md">
+        <toc-element topic="Brachiale.md"/>
+        <toc-element topic="bicipite-brachiale.md"/>
+        <toc-element topic="deltoide.md"/>
+        <toc-element topic="grande-dorsale.md"/>
+        <toc-element topic="grande-romboide.md"/>
+        <toc-element topic="grande-rotondo.md"/>
+        <toc-element topic="piccolo-romboide.md"/>
+        <toc-element topic="trapezio.md"/>
+        <toc-element topic="tricipite-brachiale.md"/>
+    </toc-element>
+    <toc-element topic="ossa.md">
+        <toc-element topic="polso.md"/>
+        <toc-element topic="omero.md"/>
+    </toc-element>
+    <toc-element topic="glossario.md">
+        <toc-element topic="contrazione-concentrica-ed-eccentrica.md"/>
+        <toc-element topic="estensione.md"/>
+        <toc-element topic="flessione.md"/>
+        <toc-element topic="muscoli-stabilizzatori.md"/>
+        <toc-element topic="supinazione.md"/>
+        <toc-element topic="pronazione.md"/>
     </toc-element>
 </instance-profile>
