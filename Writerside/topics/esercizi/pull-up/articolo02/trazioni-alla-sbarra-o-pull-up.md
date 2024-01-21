@@ -208,7 +208,8 @@ adattare l’allenamento in base al tuo livello di forza, dimezzando magari il n
   * 15 Pull Up
   * Rest 1′
   * 3×10 Pull Up (rest 1′)
-  Ripeti il circuito per 3 volte
+
+Ripeti il circuito per 3 volte
 
 **Video allenamento alla sbarra con 240 ripetizioni**
 
@@ -228,7 +229,7 @@ percorso:
 - Commando pull up
 - Trazioni a presa neutra
 - Trazioni ad un braccio (OAP)
-- 
+
 **Video alcune varianti trazioni by Project Invictus**:
 
 <video mini-player="true"  src="https://youtu.be/0kp-CunUtnc"/>
