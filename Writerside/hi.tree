@@ -12,13 +12,15 @@
             <toc-element topic="curl-con-manubri-01.md"/>
         </toc-element>
         <toc-element topic="raccolta-pull-up.md">
-            <toc-element topic="australian-pull-up.md"/>
-            <toc-element topic="trazioni-alla-sbarra-o-pull-up.md"/>
+            <toc-element topic="trazioni-per-principianti.md"/>
             <toc-element topic="pullup-01.md"/>
+            <toc-element topic="trazioni-alla-sbarra-o-pull-up.md"/>
+            <toc-element topic="australian-pull-up.md"/>
+            <toc-element topic="tenute-isometriche.md"/>
         </toc-element>
     </toc-element>
     <toc-element topic="muscoli.md">
-        <toc-element topic="Brachiale.md"/>
+        <toc-element topic="brachiale.md"/>
         <toc-element topic="bicipite-brachiale.md"/>
         <toc-element topic="deltoide.md"/>
         <toc-element topic="grande-dorsale.md"/>
